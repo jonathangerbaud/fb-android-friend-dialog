@@ -2,6 +2,7 @@ fb-android-friend-dialog
 ========================
 
 I made this dialog since the "normal" way of invoking the friend dialog end with an "Sorry, something went wrong" error. Recently, Facebook answered in a bug report that they were not going to fix this in a short or medium term (see this bug report https://developers.facebook.com/x/bugs/506955376009451/)
+
 More info here : http://www.abewy.com/site/blog/2013/12/18/facebook-friend-dialog/
 
 Usage
